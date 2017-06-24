@@ -9,12 +9,15 @@ body {
 }
 
 header {
-	text-align: left;
-	width: 200px;
-	
+	text-align: center;
 	
 	
 	font-size: 1em;
+	
+	
+    width:90%;
+    max-width:1200px;
+	margin:0 auto;
 	
 	
 }
@@ -38,8 +41,8 @@ h2 {
 }
 
 #davediv {
-    position: relative;
 }
+
 #davediv img {
     position: absolute;
     top: 0px;
@@ -105,7 +108,7 @@ p {
 nav {
 	padding:30px;
     background-color: #000;
-	text-align:left
+	text-align:center
 }
 
 #row
